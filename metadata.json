@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "A powerful tool to generate stunning, high-quality images from text prompts using the Imagen-4 model. View your creations in a thumbnail gallery.",
+  "requestFramePermissions": []
+}
